@@ -2,4 +2,4 @@
 Another one Repositiry
 
 
-I just wnat to lear how to use GitHub
+I just wnat to learn how to use GitHub
